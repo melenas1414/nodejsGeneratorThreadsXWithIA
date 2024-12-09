@@ -21,8 +21,8 @@ Antes de usar este proyecto, asegúrate de tener:
 
 1. Clona este repositorio:
    ```bash
-   git clone <url_del_repositorio>
-   cd <nombre_del_repositorio>
+   git clone https://github.com/melenas1414/nodejsGeneratorThreadsXWithIA.git
+   cd nodejsGeneratorThreadsXWithIA
    ```
 
 2. Instala las dependencias:
